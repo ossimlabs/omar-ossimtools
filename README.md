@@ -1,7 +1,5 @@
 # omar-ossimtools
 
-[![Build Status](https://jenkins.radiantbluecloud.com/buildStatus/icon?job=omar-ossimtools-dev)]()
-
 ### Required environment variable
 - OMAR_COMMON_PROPERTIES
 
